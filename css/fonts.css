@@ -1,0 +1,90 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "EurofurenceRegular";
+	src: url("../fonts/eurofurence/eurofurenceregular.eot");
+	src: url("../fonts/eurofurence/eurofurenceregular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/eurofurence/eurofurenceregular.woff") format("woff"),
+	url("../fonts/eurofurence/eurofurenceregular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpensansBold";
+	src: url("../fonts/opensans/opensansbold.eot");
+	src: url("../fonts/opensans/opensansbold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/opensans/opensansbold.woff") format("woff"),
+	url("../fonts/opensans/opensansbold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpensanssemiBold";
+	src: url("../fonts/opensans/opensanssemibold.eot");
+	src: url("../fonts/opensans/opensanssemibold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/opensans/opensanssemibold.woff") format("woff"),
+	url("../fonts/opensans/opensanssemibold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Opensans";
+	src: url("../fonts/opensans/opensans.eot");
+	src: url("../fonts/opensans/opensans.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/opensans/opensans.woff") format("woff"),
+	url("../fonts/opensans/opensans.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Exo2Italic";
+	src: url("../fonts/exotwo/exo2italic.eot");
+	src: url("../fonts/exotwo/exo2italic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/exotwo/exo2italic.woff") format("woff"),
+	url("../fonts/exotwo/exo2italic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PTSansRegular";
+	src: url("../fonts/ptsans/ptsans.eot");
+	src: url("../fonts/ptsans/ptsans.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/ptsans/ptsans.woff") format("woff"),
+	url("../fonts/ptsans/ptsans.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PTSansBold";
+	src: url("../fonts/ptsans/ptsansbold.eot");
+	src: url("../fonts/ptsans/ptsansbold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/ptsans/ptsansbold.woff") format("woff"),
+	url("../fonts/ptsans/ptsansbold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PTSansNarrowBold";
+	src: url("../fonts/ptsansnanarrow/ptsansnarrowbold.eot");
+	src: url("../fonts/ptsansnarrow/ptsansnarrowbold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/ptsansnarrow/ptsansnarrowbold.woff") format("woff"),
+	url("../fonts/ptsansnarrow/ptsansnarrowbold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PTSansNarrow";
+	src: url("../fonts/ptsansnanarrow/ptsansnarrow.eot");
+	src: url("../fonts/ptsansnarrow/ptsansnarrow.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/ptsansnarrow/ptsansnarrow.woff") format("woff"),
+	url("../fonts/ptsansnarrow/ptsansnarrow.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}

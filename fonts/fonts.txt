@@ -1,0 +1,8 @@
+EurofurenceRegular
+OpenSansBold
+OpenSansSemibold
+OpenSans
+Exo2.0Italic
+PTSansRegular
+PTSansNarrowBold
+PTSansNarrow
